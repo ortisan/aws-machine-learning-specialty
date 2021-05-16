@@ -22,3 +22,6 @@ Start the jupyter notebooks server:
 jupyter notebook labs
 ```
 
+## Labs
+
+All labs are in [labs directory](https://github.com/tentativafc/aws-machine-learning-specialty/tree/main/labs).
