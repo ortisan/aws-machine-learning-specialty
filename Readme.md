@@ -2,7 +2,7 @@
 
 This repo is an study guide for [AWS Machine Learning Specialty - MLS-C01](https://aws.amazon.com/pt/certification/certified-machine-learning-specialty/)
 
-### Labs Environment
+### Environment
 
 To study algorithms and frameworks we need a local Sagemaker environment. This steps emulates this.
 
@@ -21,7 +21,5 @@ Start the jupyter notebooks server:
 ```sh
 jupyter notebook labs
 ```
-
-## Labs
 
 All labs are in [labs directory](https://github.com/tentativafc/aws-machine-learning-specialty/tree/main/labs).
