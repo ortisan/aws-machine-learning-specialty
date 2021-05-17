@@ -7,7 +7,7 @@ This repo is a study guide for [AWS Machine Learning Specialty - MLS-C01](https:
 ### Abstract
 
 - $300
-- 65 questions
+- 65 questions ([sample](https://github.com/tentativafc/aws-machine-learning-specialty/blob/main/docs/AWS-Certified-Machine-Learning-Specialty_Sample-Questions.pdf))
 - 180 mins
 
 ### Domains
