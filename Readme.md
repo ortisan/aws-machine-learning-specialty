@@ -19,11 +19,15 @@ This repo is a study guide for [AWS Machine Learning Specialty - MLS-C01](https:
 
 ## ML Concepts
 
+### Background
+
+- [Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+- [Calculus - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
 ### Feature Selection
 
 - [Principal Component Analysis PCA - Luis Serrano](https://www.youtube.com/watch?v=g-Hb26agBFg)
-
-  - [Background - Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ### Classification
 
