@@ -14,7 +14,7 @@ This repo is an study guide for [AWS Machine Learning Specialty - MLS-C01](https
 
 - [Precision x Recall Tradeoff](https://datascience-george.medium.com/the-precision-recall-trade-off-aa295faba140)
 
-- [ROC Courve and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
+- [ROC Curve and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 
 * [Gini impurity](https://bambielli.com/til/2017-10-29-gini-impurity/#:~:text=Gini%20Impurity%20is%20a%20measurement,labels%20from%20the%20data%20set.)
 
