@@ -44,4 +44,16 @@ All labs are in [labs directory](https://github.com/tentativafc/aws-machine-lear
 
 - [AWS Machine Learning producs](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html)
 
+* [AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html)
+
+  - [Samples](https://github.com/aws-samples/aws-glue-samples)
+
+* [EMR](https://docs.aws.amazon.com/emr/index.html)
+
+  - [Samples](https://github.com/aws-samples/analysing-realtime-streaming-data-using-msk-emr)
+
+* [Kinesis](https://docs.aws.amazon.com/kinesis/index.html)
+
+  - [Streaming Data Solutions on AWS with Amazon Kinesis](https://docs.aws.amazon.com/whitepapers/latest/streaming-data-solutions-amazon-kinesis/welcome.html?did=wp_card&trk=wp_card)
+
 * [Linux Academy github](https://github.com/linuxacademy/content-aws-mls-c01)
