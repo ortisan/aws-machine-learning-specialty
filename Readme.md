@@ -4,6 +4,12 @@ This repo is an study guide for [AWS Machine Learning Specialty - MLS-C01](https
 
 ## Concepts
 
+### Feature Selection
+
+- [Principal Component Analysis PCA - Luis Serrano](https://www.youtube.com/watch?v=g-Hb26agBFg)
+
+  - [Background - Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 ### Classification
 
 - [Algorithms](https://ml-cheatsheet.readthedocs.io/en/latest/classification_algos.html)
@@ -17,6 +23,24 @@ This repo is an study guide for [AWS Machine Learning Specialty - MLS-C01](https
 - [ROC Curve and AUC](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
 
 * [Gini impurity](https://bambielli.com/til/2017-10-29-gini-impurity/#:~:text=Gini%20Impurity%20is%20a%20measurement,labels%20from%20the%20data%20set.)
+
+### Natural Language Processing NLP
+
+- [NLP Tensor Flow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
+
+### Neural Network and Deep Learning
+
+- [Activation Functions ](https://www.youtube.com/watch?v=Xvg00QnyaIY)
+
+* [Deep learning - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk)
+
+- Convolution Neural Network CNN
+
+  - [Introduction - Luis Serrano](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
+
+  - [CNN Course - deepleaning.ai](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+
+- [Recurrent Neural Network RNN - Luis Serrano](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 
 ## Python Environment
 
