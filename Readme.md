@@ -2,7 +2,22 @@
 
 This repo is a study guide for [AWS Machine Learning Specialty - MLS-C01](https://aws.amazon.com/pt/certification/certified-machine-learning-specialty/)
 
-## Concepts
+## About [Exam](https://aws.amazon.com/pt/certification/certified-machine-learning-specialty/)
+
+### Abstract
+
+- $300
+- 65 questions
+- 180 mins
+
+### Domains
+
+1. Data Engineering - 20%
+2. Exploratory Data Analysis - 24%
+3. Modeling - 36 %
+4. Machine Learning Implementations - 20%
+
+## ML Concepts
 
 ### Feature Selection
 
