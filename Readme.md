@@ -1,6 +1,6 @@
 # AWS Machine Learning Specialty Study
 
-This repo is an study guide for [AWS Machine Learning Specialty - MLS-C01](https://aws.amazon.com/pt/certification/certified-machine-learning-specialty/)
+This repo is a study guide for [AWS Machine Learning Specialty - MLS-C01](https://aws.amazon.com/pt/certification/certified-machine-learning-specialty/)
 
 ## Concepts
 
