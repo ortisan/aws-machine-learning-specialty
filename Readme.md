@@ -25,7 +25,7 @@ This repo is a study guide for [AWS Machine Learning Specialty - MLS-C01](https:
 
 - [Calculus - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-### Feature Selection
+### Feature Selection / Dimension Reduction
 
 - [Principal Component Analysis PCA - Luis Serrano](https://www.youtube.com/watch?v=g-Hb26agBFg)
 
