@@ -1,1 +1,6 @@
+# Python
 labs/.ipynb_checkpoints/
+labs/**/.pyc
+# Terraform
+aws/**/.terraform/
+aws/**/.terraform.lock.hcl

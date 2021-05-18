@@ -87,6 +87,8 @@ All labs are in [labs directory](https://github.com/tentativafc/aws-machine-lear
 
 - [AWS Machine Learning producs](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/machine-learning.html)
 
+* [AWS Data Migration](https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html)
+
 * [AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html)
 
   - [Samples](https://github.com/aws-samples/aws-glue-samples)
