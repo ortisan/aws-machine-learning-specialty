@@ -32,17 +32,27 @@ resource "aws_iam_policy" "glue_service_iam_policy" {
     {
       "Effect": "Allow",
       "Action": ["s3:CreateBucket"],
-      "Resource": ["arn:aws:s3:::aws-glue-*"]
+      "Resource": ["arn:aws:s3:::labs-*"]
+    },    
+    {
+      "Effect": "Allow",
+      "Action": ["s3:GetObject"],
+      "Resource": ["arn:aws:s3:::crawler-public*", "arn:aws:s3:::labs-*"]
     },
     {
       "Effect": "Allow",
       "Action": ["s3:GetObject", "s3:PutObject", "s3:DeleteObject"],
-      "Resource": ["arn:aws:s3:::aws-glue-*/*", "arn:aws:s3:::*/*aws-glue-*/*"]
+      "Resource": ["arn:aws:s3:::${aws_s3_bucket.mls_c01_data.bucket}/*"]
     },
     {
       "Effect": "Allow",
-      "Action": ["s3:GetObject"],
-      "Resource": ["arn:aws:s3:::crawler-public*", "arn:aws:s3:::aws-glue-*"]
+      "Action": ["s3:GetObject", "s3:PutObject", "s3:DeleteObject"],
+      "Resource": ["arn:aws:s3:::${aws_s3_bucket.mls_c01_glue_scripts.bucket}/*"]
+    },
+    {
+      "Effect": "Allow",
+      "Action": ["s3:GetObject", "s3:PutObject", "s3:DeleteObject"],
+      "Resource": ["arn:aws:s3:::${aws_s3_bucket.mls_c01_glue_temporary.bucket}/*"]
     },
     {
       "Effect": "Allow",
@@ -52,7 +62,7 @@ resource "aws_iam_policy" "glue_service_iam_policy" {
         "logs:PutLogEvents",
         "logs:AssociateKmsKey"
       ],
-      "Resource": ["arn:aws:logs:*:*:/aws-glue/*"]
+      "Resource": ["arn:aws:logs:*:*:/labs-*/*"]
     },
     {
       "Effect": "Allow",

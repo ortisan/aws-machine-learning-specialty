@@ -1,8 +1,8 @@
 # Python
-labs/.ipynb_checkpoints/
-labs/**/.pyc
+**/.ipynb_checkpoints/
+**/**/.pyc
 # Terraform
-aws/**/.terraform/
-aws/**/.terraform.lock.hcl
-aws/**/terraform.tfstate*
-aws/**/.terraform.tfstate*
+**/**/.terraform/
+**/**/.terraform.lock.hcl
+**/**/terraform.tfstate*
+**/**/.terraform.tfstate*
