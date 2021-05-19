@@ -7,11 +7,6 @@ resource "aws_s3_bucket" "investing_bucket" {
   }
 }
 
-resource "local_file" "timestamp" {
-  filename = "timestamp"
-  content = "${timestamp()}"
-}
-
 resource "aws_s3_bucket_object" "stocks" {
   for_each = fileset("${path.module}/s3-files/stocks/", "*")
   bucket = aws_s3_bucket.investing_bucket.id
