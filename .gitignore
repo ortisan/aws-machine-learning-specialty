@@ -4,3 +4,4 @@ labs/**/.pyc
 # Terraform
 aws/**/.terraform/
 aws/**/.terraform.lock.hcl
+aws/**/terraform.tfstate*
